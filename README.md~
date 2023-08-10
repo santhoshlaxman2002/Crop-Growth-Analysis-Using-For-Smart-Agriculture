@@ -1,0 +1,3 @@
+#Crop Growth Analysis
+
+By the help of neural network, prediction on disease and growth of the crops can be determined. For this, we used *CNN*, a simple classification algorithm which is efficient and produces the accurate results
